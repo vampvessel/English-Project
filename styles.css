@@ -61,8 +61,10 @@ footer {
     padding: 10px;
     text-align: center;
 }
-    img {
-        max-height: 5px;
-        max-width: 5px;
+    .img {
+        height: 5px;
+        width: 5px;
         display: block;
+        margin-left: auto;
+        margin-right: auto;
 }
