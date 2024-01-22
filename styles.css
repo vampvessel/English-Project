@@ -60,4 +60,8 @@ footer {
     color: #fff;
     padding: 10px;
     text-align: center;
+
+    img {
+        max-height: 20px;
+        max-width: 20px;
 }
