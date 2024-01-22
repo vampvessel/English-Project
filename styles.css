@@ -67,4 +67,6 @@ footer {
     height: 10%;
     display: block;
     align-image: center;
+    margin-right: auto;
+    margin-left: auto;
 }
