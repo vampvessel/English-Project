@@ -69,3 +69,11 @@ footer {
     margin-right: auto;
     margin-left: auto;
 }
+
+#second-image {
+    width: 10%;
+    height: 10%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
