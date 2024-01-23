@@ -15,7 +15,8 @@ header {
     text-align: center;
     justify-content: space-between;
     position: fixed;
-     top: 0;
+    top: 0;
+    display: flex;
 }
 
 nav {
@@ -24,6 +25,7 @@ nav {
     justify-content: space-between;
     position: fixed;
     top: 0;
+    display: flex;
 }
 
 nav ul {
