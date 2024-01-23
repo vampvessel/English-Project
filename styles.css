@@ -82,6 +82,6 @@ footer {
     font-weight: bold;
 }
 
-ul {
+ul, ol {
     margin-top: 30px;
 }
