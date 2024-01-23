@@ -62,7 +62,7 @@ footer {
     text-align: center;
 }
 
-#image {
+.image {
     width: 10%;
     height: 10%;
     display: block;
