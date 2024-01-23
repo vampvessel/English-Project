@@ -13,11 +13,13 @@ header {
     color: #fff;
     padding: 20px;
     text-align: center;
+    justify-content: space-between;
 }
 
 nav {
     background-color: #f1f1f1;
     padding: 10px;
+    justify-content: space-between;
 }
 
 nav ul {
